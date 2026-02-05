@@ -1,126 +1,178 @@
-# 👋 Hi there, I'm саня
+# 👋 Hi there, I'm Sanya (Саня)
 
-![Header](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/kort0881?style=flat-square) ![Profile views](https://img.shields.io/badge/Profile%20views-0-brightgreen?style=flat-square)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/kort0881) [![GitHub followers](https://img.shields.io/github/followers/kort0881?style=flat-square)](https://github.com/kort0881?tab=followers) [![Profile views](https://img.shields.io/badge/Profile%20views-0-brightgreen?style=flat-square)](https://github.com/kort0881)
 
 ---
 
 ## 🚀 About Me
 
-```
-⚖️  Developer and Content Creator
-🌐 VPN/Proxy Technology Specialist
-🤖 Telegram Bot Developer
-💻 Python Automation Expert
-🛡️  Cybersecurity Enthusiast
-```
+I'm a **full-stack developer and content creator** specializing in **VPN/Proxy technology**, **Telegram bot development**, and **cybersecurity automation**. With expertise in Python, I build production-grade solutions for proxy validation, VPN configuration management, and intelligent automation.
 
-### ✨ Expertise
-
-- **Languages**: Python, Bash, PowerShell
-- **Specializations**: VPN/Proxy solutions, Telegram bot development (aiogram), Server automation
-- **Platforms**: GitHub, Telegram, YouTube, Linux/Ubuntu
-- **Tools**: Redis, Supabase, GitHub Actions, Docker
+**Focus Areas:**
+- 🌐 VPN/Proxy Solutions & Network Configuration
+- 🤖 Telegram Bot Development (aiogram framework)
+- 💻 Python Automation & Backend Development
+- 🛡️ Cybersecurity & Network Security
+- 📺 Content Creation & Technical Documentation
 
 ---
 
-## 📊 Main Projects
+## ✨ Core Expertise
 
-### 🌟 Most Popular
+### 💬 Programming Languages
+- **Python 3.x** - Primary development language
+- **Bash/Shell** - Server automation and scripting
+- **PowerShell** - Windows automation and deployment
+- **JavaScript** - Frontend and Node.js applications
+
+### 🎯 Specializations
+
+**VPN & Proxy Technology**
+- VLESS/VMESS/Trojan protocol implementation
+- Proxy validation and performance testing
+- VPN configuration management and deployment
+- Network filtering and whitelisting solutions
+
+**Telegram Bot Development**
+- Advanced bot architecture using aiogram
+- Real-time data aggregation and processing
+- User interaction automation and analytics
+- Bot moderation and anti-spam solutions
+
+**Automation & Backend**
+- Python automation frameworks
+- REST API development and integration
+- Database solutions (PostgreSQL, Redis, Supabase)
+- GitHub Actions CI/CD pipelines
+- Docker containerization and deployment
+
+### 🛠️ Tech Stack
+
+**Backend:** Python, FastAPI, aiogram, asyncio  
+**Databases:** PostgreSQL, Redis, Supabase  
+**DevOps:** Docker, GitHub Actions, Linux/Ubuntu  
+**Tools:** GitHub, Telegram API, YouTube API, Git  
+**Cloud:** Linux servers, VPS, SSH automation  
+
+---
+
+## 📊 Featured Projects
+
+### 🌟 Most Popular Projects
 
 | Project | Stars | Description |
 |---------|-------|-------------|
-| [russia-whitelist](https://github.com/kort0881/russia-whitelist) | ⭐ 131 | Whitelist configuration for Russian network |
-| [vpn-vless-configs-russia](https://github.com/kort0881/vpn-vless-configs-russia) | ⭐ 104 | Free VLESS/VMESS keys updated daily |
+| [russia-whitelist](https://github.com/kort0881/russia-whitelist) | ⭐ 130+ | Whitelist IP database for Russian network optimization |
+| [vpn-vless-configs-russia](https://github.com/kort0881/vpn-vless-configs-russia) | ⭐ 110+ | Daily updated free VLESS/VMESS VPN keys and proxy configuration |
 
-### 🔧 Active Development
+### 🔧 Active Development Projects
 
-- **[vpn-checker-backend](https://github.com/kort0881/vpn-checker-backend)** - VPN Checker Backend with auto-cleanup
-- **[vless-vmess-ss-checker](https://github.com/kort0881/vless-vmess-ss-checker)** - Lightweight proxy validator tool
-- **[vpn-bot-telegam](https://github.com/kort0881/vpn-bot-telegam)** - Telegram bot powered by aiogram
-- **[tg-news-autoposter](https://github.com/kort0881/tg-news-autoposter)** - Tech/security news aggregator with AI summaries
+- **[vpn-checker-backend](https://github.com/kort0881/vpn-checker-backend)** - VPN validation engine with auto-cleanup and performance metrics
+- **[vless-vmess-ss-checker](https://github.com/kort0881/vless-vmess-ss-checker)** - Lightweight proxy validator with latency detection
+- **[vpn-bot-telegam](https://github.com/kort0881/vpn-bot-telegam)** - Advanced Telegram bot for VPN configuration distribution
+- **[tg-news-autoposter](https://github.com/kort0881/tg-news-autoposter)** - Intelligent news aggregation bot with AI summaries
+- **[xray-proxy-validator](https://github.com/kort0881/xray-proxy-validator)** - Advanced proxy validator with IP reputation checking
 
-### 🛠️ Other Projects
+### 📱 Utility Tools
 
-- [youtube-seo-agent](https://github.com/kort0881/youtube-seo-agent) - YouTube SEO optimization tool
-- [GITHUBRADAR](https://github.com/kort0881/GITHUBRADAR) - GitHub repository analysis
-- [No-code-protection](https://github.com/kort0881/No-code-protection) - Code protection solution
-- [mybotheip](https://github.com/kort0881/mybotheip) - IP bot for Telegram
-- [proxy-auto-checker](https://github.com/kort0881/proxy-auto-checker) - Automated proxy validation
-
----
-
-## 📚 Tech Stack
-
-```
-┌─ Backend ─────────────────────┐
-│ Python 3.x                     │
-│ aiogram (Telegram)             │
-│ FastAPI / Flask                │
-│ PostgreSQL / Redis             │
-└────────────────────────────────┘
-
-┌─ Infrastructure ──────────────┐
-│ Docker & Docker Compose        │
-│ Linux/Ubuntu Servers           │
-│ GitHub Actions (CI/CD)         │
-│ VPS Management                 │
-└────────────────────────────────┘
-
-┌─ Tools & Services ────────────┐
-│ Git / GitHub                   │
-│ Supabase                       │
-│ Telegram API                   │
-│ YouTube API                    │
-└────────────────────────────────┘
-```
-
----
-
-## 📞 Connect With Me
-
-**Telegram Channels:**
-- 📡 [@vlesstrojan](https://t.me/vlesstrojan) - VPN/Proxy updates
-- 🔐 [@kibersosnew](https://t.me/kibersosnew) - Cybersecurity content
-
-**Bots:**
-- 🤖 [@vlessbots_bot](https://t.me/vlessbots_bot) - VPN configuration bot
-- 🤖 [@spamvtorbot](https://t.me/spamvtorbot) - Anti-spam bot
-- 🤖 [@myhelp88_bot](https://t.me/myhelp88_bot) - Helper bot
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kort0881&show_icons=true&theme=dark&hide_border=true)
+- **[youtube-seo-agent](https://github.com/kort0881/youtube-seo-agent)** - YouTube metadata optimization and SEO automation
+- **[GITHUBRADAR](https://github.com/kort0881/GITHUBRADAR)** - GitHub repository analysis and trending detection
+- **[mybotheip](https://github.com/kort0881/mybotheip)** - IP information Telegram bot
+- **[proxy-auto-checker](https://github.com/kort0881/proxy-auto-checker)** - Automated proxy validation pipeline
+- **[No-code-protection](https://github.com/kort0881/No-code-protection)** - Code obfuscation and protection solution
 
 ---
 
 ## 🎯 Currently Working On
 
-- 🔄 VPN/Proxy checker improvements
-- 🤖 Advanced Telegram bot features
-- 📊 Content optimization algorithms
-- 🚀 Server automation tools
+- 🔄 Advanced VPN/Proxy checker with machine learning optimization
+- 🤖 Enterprise-grade Telegram bot features and rate limiting
+- 📊 Content optimization algorithms for YouTube and social media
+- 🚀 Server automation tools and deployment frameworks
+- 🔐 Cybersecurity content creation and education
 
 ---
 
-## 💡 What I'm Learning
+## 💡 Learning & Growth
 
-- Advanced proxy checking methods
-- AI model integration (OpenAI, Perplexity API)
-- Bot optimization & rate limiting
-- SEO content generation automation
-
----
-
-## ⭐ If you like my work
-
-Feel free to:
-- 🌟 Star my repositories
-- 📧 Contact me for collaboration
-- 🔗 Follow on GitHub for updates
-- 💬 Subscribe to my Telegram channels
+- Advanced proxy checking methodologies and validation algorithms
+- AI model integration (OpenAI, Perplexity API, Claude)
+- Bot optimization, caching strategies, and rate limiting
+- SEO content generation and automation
+- Database optimization and scaling
 
 ---
 
-**Made with ❤️ by kort0881**
+## 📞 Connect With Me
+
+### Telegram Channels & Bots
+
+**Educational & Content Channels:**
+- 📡 [@vlesstrojan](https://t.me/vlesstrojan) - VPN/Proxy configuration updates and tutorials
+- 🔐 [@kibersosnew](https://t.me/kibersosnew) - Cybersecurity news and digital safety content
+- 💼 [@crypto_security](https://t.me/+aukDHGFAhE41NWQy) - Advanced security topics
+
+**Functional Bots:**
+- 🤖 [@vlessbots_bot](https://t.me/vlessbots_bot) - VPN configuration distribution bot
+- 🤖 [@spamvtorbot](https://t.me/spamvtorbot) - Advanced spam filtering and moderation
+- 🤖 [@myhelp88_bot](https://t.me/myhelp88_bot) - General helper and utility bot
+
+---
+
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kort0881&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kort0881&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 🌐 Skills Summary
+
+```
+Backend Development    ████████████████░░ 90%
+Python Automation     ████████████████░░ 90%
+VPN/Proxy Technology  ██████████████░░░░ 85%
+Telegram Bot Dev      ██████████████░░░░ 85%
+Database Design       ████████████░░░░░░ 75%
+DevOps & Docker       ████████████░░░░░░ 75%
+SEO & Content         ███████████░░░░░░░ 70%
+```
+
+---
+
+## 🎓 Certifications & Achievements
+
+- ⭐ GitHub Starstruck x2 - Multiple projects with 100+ stars
+- ✨ YOLO achievement - First push to production
+- 🏆 Active open-source contributor
+- 📚 Self-taught full-stack developer
+
+---
+
+## ⭐ If You Like My Work
+
+- 🌟 **Star** my repositories - it helps with GitHub discoverability
+- 📧 **Contact me** for collaboration, consulting, or freelance projects
+- 🔗 **Follow** on GitHub for updates and new releases
+- 💬 **Subscribe** to my Telegram channels for updates and tutorials
+- 🤝 **Contribute** to open-source projects
+
+---
+
+## 📋 Repository Statistics
+
+- **Total Repositories:** 15+
+- **Public Projects:** 8
+- **Total Stars:** 240+
+- **Active Contributors:** Building solo
+
+---
+
+<div align="center">
+  
+**Made with ❤️ by kort0881 | Amsterdam-based Developer**
+
+[⬆ Back to Top](#-hi-there-im-sanya-саня)
+
+</div>
