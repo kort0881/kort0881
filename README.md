@@ -1,7 +1,20 @@
+<div style="text-align: center;">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=2000&multiline=true&width=500&height=70&lines=👋+Hi+there,+I'm+Sanya" alt="Typing SVG" />
+  </h1>
+  <img src="https://raw.githubusercontent.com/kort0881/kort0881/main/grok-video-ab2b232e-6e74-4ee3-9aa7-d8c988be0e78.gif" width="100%" max-width="700px" height="auto" alt="VPN Grok Animation" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+</div>
 
+<p align="center">
+  [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/kort0881)
+  [![GitHub followers](https://img.shields.io/github/followers/kort0881?style=flat-square)](https://github.com/kort0881?tab=followers)
+  [![Profile views](https://img.shields.io/badge/Profile%20views-42-brightgreen?style=flat-square)](https://github.com/kort0881)
+</p>
 
+---
 
 ## 🚀 About Me
+
 
 I'm a **full-stack developer and content creator** specializing in **VPN/Proxy technology**, **Telegram bot development**, and **cybersecurity automation**. With expertise in Python, I build production-grade solutions for proxy validation, VPN configuration management, and intelligent automation.
 
