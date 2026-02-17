@@ -1,16 +1,20 @@
-<div align="center">
+<div style="text-align: center;">
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=2000&multiline=true&width=500&height=70&lines=👋+Hi+there,+I'm+Sanya" alt="Typing SVG" />
   </h1>
-  <img src="https://user-images.githubusercontent.com/13233873/42351348-840bd926-8090-11e8-9a5d-4659e1b4ff35.gif" width="100%" max-width="600px" alt="Code Animation" style="border-radius: 10px;" />
+  <img src="https://raw.githubusercontent.com/kort0881/kort0881/main/assets/grok-video-ab2b232e-6e74-4ee3-9aa7-d8c988be0e78.gif" width="100%" max-width="700px" height="auto" alt="VPN Animation" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </div>
 
-<div align="center">
+<p align="center">
+  [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/kort0881)
+  [![GitHub followers](https://img.shields.io/github/followers/kort0881?style=flat-square)](https://github.com/kort0881?tab=followers)
+  [![Profile views](https://img.shields.io/badge/Profile%20views-42-brightgreen?style=flat-square)](https://github.com/kort0881)
+</p>
 
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](https://github.com/kort0881) [![GitHub followers](https://img.shields.io/github/followers/kort0881?style=flat-square)](https://github.com/kort0881?tab=followers) [![Profile views](https://img.shields.io/badge/Profile%20views-0-brightgreen?style=flat-square)](https://github.com/kort0881)
-
-</div>
 ---
+
+## 🚀 About Me
+
 
 ## 🚀 About Me
 
