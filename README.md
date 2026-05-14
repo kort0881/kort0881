@@ -1,3 +1,6 @@
+<a href="https://github.com/sponsors/kort0881">
+  <img src="https://img.shields.io/badge/Sponsor%20💚-kort0881-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge" alt="Sponsor kort0881">
+</a>
 <div style="text-align: center;">
   <h1>
     <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=2000&multiline=true&width=700&height=70&lines=👋+Hi+there,+I'm+Sanya;Vibe+Coding,+Automation+%26+Content+Creation" alt="Typing SVG" />
