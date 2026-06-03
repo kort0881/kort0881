@@ -16,7 +16,7 @@ I like turning ideas into working tools, Telegram bots, and content systems. My 
 
 I work with Python, APIs, databases, GitHub, and AI-assisted workflows. I also create content for YouTube and run Telegram channels around tech, tools, and digital projects.
 
-## 🎯 What I’m Into
+## 🎯 What I'm Into
 
 - Vibe coding and AI-assisted development.
 - Telegram bots and automation systems.
@@ -46,7 +46,7 @@ I work with Python, APIs, databases, GitHub, and AI-assisted workflows. I also c
 
 ## ⚡ My Approach
 
-I’m into building in a vibe-coding style: idea first, momentum second, code third.
+I'm into building in a vibe-coding style: idea first, momentum second, code third.
 
 That means I like to:
 - start with a concept,
@@ -55,7 +55,33 @@ That means I like to:
 - improve through iterations,
 - and turn raw ideas into something real.
 
-For me, coding is not only about syntax — it’s also about creativity, speed, and intuition. Vibe coding is commonly described as guiding AI tools with prompts to generate and refine software instead of writing every part manually, which matches this kind of workflow well.[web:2][web:5]
+For me, coding is not only about syntax — it's also about creativity, speed, and intuition. Vibe coding is commonly described as guiding AI tools with prompts to generate and refine software instead of writing every part manually, which matches this kind of workflow well.
+
+## 💰 Support / Донаты
+
+If you find my projects useful and want to support my work:
+
+| Cryptocurrency | Network | Address |
+|----------------|---------|---------|
+| **USDT** | TRC-20 (Tron) | `TDpXaQ51rCyHcwTtf8pFoZVumBTHc5zUEv` |
+| **SOL** | Solana | `UQBulszePXnd4_jPFOZT3tErjWhkgKNjaPT2_1lYP_SqY0ge` |
+
+<details>
+<summary>📱 QR Codes for easy donation (click to expand)</summary>
+
+<br>
+
+**USDT (TRC-20):**  
+![USDT QR](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=TDpXaQ51rCyHcwTtf8pFoZVumBTHc5zUEv)
+
+**SOL (Solana):**  
+![SOL QR](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=UQBulszePXnd4_jPFOZT3tErjWhkgKNjaPT2_1lYP_SqY0ge)
+
+</details>
+
+⚠️ **Important:** Send USDT **ONLY in TRC-20 (Tron) network**! Sending in wrong network = **lost funds** 🔥
+
+---
 
 ## 📋 Projects
 
@@ -68,10 +94,23 @@ Scripts and small tools for video optimization, metadata workflows, analytics, a
 ### 🔧 Utilities
 Small practical tools, automation scripts, and experiments built around productivity, content, and fast execution.
 
-## 📄 Let’s Connect
+### 🌐 VPN / Proxies
+- VLESS/VMESS configurations
+- MTProto proxy collector
+- Proxy validation and monitoring tools
+
+## 📄 Let's Connect
 
 <div align="center">
 
-[Telegram](#) • [YouTube](#) • [GitHub](#)
+[Telegram](https://t.me/kort0881) • [YouTube](#) • [GitHub](https://github.com/kort0881)
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Sanya** | Python • AI • Automation • Vibe Coding
 
 </div>
