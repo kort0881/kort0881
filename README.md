@@ -1,36 +1,71 @@
-<!-- ============================================================ -->
-<!--  БЛОК ДОНАТОВ С МИГАЮЩИМИ КНОПКАМИ, QR-КОДАМИ И СПИСКОМ СЕТЕЙ -->
-<!-- ============================================================ -->
+<!-- =========================================================== -->
+<!--  ПОЛНЫЙ README С ВАШИМ КОНТЕНТОМ И МИГАЮЩИМИ КНОПКАМИ ДОНАТОВ -->
+<!-- =========================================================== -->
 
-<div align="center" id="donate">
+<div style="text-align: center;">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=2000&multiline=true&width=700&height=70&lines=👋+Hi+there,+I'm+Sanya;Vibe+Coding,+Automation+%26+Content+Creation" alt="Typing SVG" />
+  </h1>
+  <img src="https://raw.githubusercontent.com/kort0881/kort0881/main/grok-video-ab2b232e-6e74-4ee3-9aa7-d8c988be0e78.gif" width="100%" max-width="700px" height="auto" alt="Fun Animation" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+</div>
+
+## 🚀 About Me
+
+Hi! I'm Sanya — a developer and content creator focused on **vibe coding**, automation, and building useful things with AI.
+
+I like turning ideas into working tools, Telegram bots, and content systems. My main focus is not just writing code line by line, but building fast, experimenting with prompts, testing ideas, and shaping projects through flow, iteration, and creative energy.
+
+I work with Python, APIs, databases, GitHub, and AI-assisted workflows. I also create content for YouTube and run Telegram channels around tech, tools, and digital projects.
+
+## 🎯 What I'm Into
+
+- Vibe coding and AI-assisted development.
+- Telegram bots and automation systems.
+- Python scripts for content workflows and daily tasks.
+- YouTube and Telegram content creation.
+- Simple web tools, utilities, and experimental projects.
+
+<!-- ============== НОВЫЙ БЛОК ДОНАТОВ (МИГАЮЩИЙ) ============== -->
+<div align="center" id="donate" style="margin: 40px 0;">
 
   <h2>💰 Поддержать проект</h2>
 
-  <!-- МИГАЮЩАЯ КНОПКА "ПОДДЕРЖАТЬ" (ссылка на раздел с крипто-адресами) -->
-  <a href="#crypto" 
-     style="display: inline-block; 
-            padding: 16px 40px; 
-            background: linear-gradient(45deg, #f7971e, #ffd200); 
-            color: #1a1a1a; 
-            font-size: 26px; 
-            font-weight: 800; 
-            border-radius: 50px; 
-            text-decoration: none; 
-            box-shadow: 0 8px 25px rgba(255, 215, 0, 0.6); 
-            animation: pulse-blink 1.4s infinite ease-in-out;
-            letter-spacing: 1px;
-            border: 2px solid #fff;">
-    ⚡ ПОДДЕРЖАТЬ
+  <!-- ГЛАВНАЯ МИГАЮЩАЯ КНОПКА (SVG-анимация – работает везде) -->
+  <a href="#crypto" style="display: inline-block; text-decoration: none;">
+    <svg width="280" height="70" viewBox="0 0 280 70" xmlns="http://www.w3.org/2000/svg">
+      <rect x="0" y="0" width="280" height="70" rx="35" fill="url(#grad)" stroke="#fff" stroke-width="3" />
+      <defs>
+        <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#f7971e" />
+          <stop offset="100%" stop-color="#ffd200" />
+        </linearGradient>
+        <style>
+          @keyframes pulse {
+            0% { transform: scale(1); opacity: 1; filter: drop-shadow(0 0 8px rgba(255,215,0,0.4)); }
+            50% { transform: scale(1.04); opacity: 0.9; filter: drop-shadow(0 0 25px rgba(255,215,0,0.9)); }
+            100% { transform: scale(1); opacity: 1; filter: drop-shadow(0 0 8px rgba(255,215,0,0.4)); }
+          }
+          .pulse-text {
+            animation: pulse 1.5s infinite ease-in-out;
+            transform-origin: center;
+          }
+        </style>
+      </defs>
+      <text x="50%" y="45" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="900" fill="#1a1a1a" class="pulse-text">
+        ⚡ ПОДДЕРЖАТЬ
+      </text>
+    </svg>
   </a>
 
   <br><br>
 
-  <!-- МИГАЮЩАЯ КНОПКА "SPONSOR ON GITHUB" (бейдж с анимацией) -->
+  <!-- МИГАЮЩАЯ КНОПКА SPONSOR (CSS-анимация, дублируем для надёжности) -->
   <a href="https://github.com/sponsors/kort0881" 
      style="display: inline-block; 
             animation: pulse-blink 1.8s infinite ease-in-out;
             border-radius: 10px;
-            overflow: hidden;">
+            overflow: hidden;
+            box-shadow: 0 0 15px rgba(0,255,0,0.3);">
     <img src="https://img.shields.io/badge/Sponsor%20💚-kort0881-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge" 
          alt="Sponsor kort0881" 
          style="display: block;">
@@ -38,7 +73,7 @@
 
   <br><br>
 
-  <!-- ============ СПИСОК СЕТЕЙ И QR-КОДЫ ============ -->
+  <!-- СПИСОК СЕТЕЙ И QR-КОДЫ -->
   <div id="crypto">
     <table align="center" border="0" cellpadding="15" cellspacing="0" style="border-collapse: collapse; background: #f8f9fa; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.08);">
       <tr>
@@ -70,16 +105,46 @@
     Отправка в другую сеть = <strong style="color: #d9534f;">потеря средств</strong> 🔥
   </div>
 
-  <!-- ============ СТИЛИ ДЛЯ АНИМАЦИИ ============ -->
-  <style>
-    @keyframes pulse-blink {
-      0%   { transform: scale(1); opacity: 1; filter: drop-shadow(0 0 5px rgba(255,215,0,0.3)); }
-      50%  { transform: scale(1.06); opacity: 0.85; filter: drop-shadow(0 0 20px rgba(255,215,0,0.9)); }
-      100% { transform: scale(1); opacity: 1; filter: drop-shadow(0 0 5px rgba(255,215,0,0.3)); }
-    }
-  </style>
+</div>
+
+<style>
+  /* Дополнительная CSS-анимация для кнопки Sponsor (работает в браузерах) */
+  @keyframes pulse-blink {
+    0%   { transform: scale(1); opacity: 1; filter: drop-shadow(0 0 5px rgba(0,255,0,0.3)); }
+    50%  { transform: scale(1.06); opacity: 0.85; filter: drop-shadow(0 0 20px rgba(0,255,0,0.8)); }
+    100% { transform: scale(1); opacity: 1; filter: drop-shadow(0 0 5px rgba(0,255,0,0.3)); }
+  }
+</style>
+<!-- ================= КОНЕЦ БЛОКА ДОНАТОВ ===================== -->
+
+## 📋 Projects
+
+### 🤖 Telegram Bots
+Bots for automation, content handling, publishing flows, and data processing.
+
+### 🎥 YouTube Tools
+Scripts and small tools for video optimization, metadata workflows, analytics, and content support.
+
+### 🔧 Utilities
+Small practical tools, automation scripts, and experiments built around productivity, content, and fast execution.
+
+### 🌐 VPN / Proxies
+- VLESS/VMESS configurations
+- MTProto proxy collector
+- Proxy validation and monitoring tools
+
+## 📄 Let's Connect
+
+<div align="center">
+
+[Telegram](https://t.me/kort0881) • [YouTube](#) • [GitHub](https://github.com/kort0881)
 
 </div>
-<!-- ============================================================ -->
-<!--  КОНЕЦ БЛОКА ДОНАТОВ                                          -->
-<!-- ============================================================ -->
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Sanya** | Python • AI • Automation • Vibe Coding
+
+</div>
