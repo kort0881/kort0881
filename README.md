@@ -1,116 +1,85 @@
-<a href="https://github.com/sponsors/kort0881">
-  <img src="https://img.shields.io/badge/Sponsor%20💚-kort0881-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge" alt="Sponsor kort0881">
-</a>
-<div style="text-align: center;">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=2000&multiline=true&width=700&height=70&lines=👋+Hi+there,+I'm+Sanya;Vibe+Coding,+Automation+%26+Content+Creation" alt="Typing SVG" />
-  </h1>
-  <img src="https://raw.githubusercontent.com/kort0881/kort0881/main/grok-video-ab2b232e-6e74-4ee3-9aa7-d8c988be0e78.gif" width="100%" max-width="700px" height="auto" alt="Fun Animation" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
-</div>
+<!-- ============================================================ -->
+<!--  БЛОК ДОНАТОВ С МИГАЮЩИМИ КНОПКАМИ, QR-КОДАМИ И СПИСКОМ СЕТЕЙ -->
+<!-- ============================================================ -->
 
-## 🚀 About Me
+<div align="center" id="donate">
 
-Hi! I'm Sanya — a developer and content creator focused on **vibe coding**, automation, and building useful things with AI.
+  <h2>💰 Поддержать проект</h2>
 
-I like turning ideas into working tools, Telegram bots, and content systems. My main focus is not just writing code line by line, but building fast, experimenting with prompts, testing ideas, and shaping projects through flow, iteration, and creative energy.
+  <!-- МИГАЮЩАЯ КНОПКА "ПОДДЕРЖАТЬ" (ссылка на раздел с крипто-адресами) -->
+  <a href="#crypto" 
+     style="display: inline-block; 
+            padding: 16px 40px; 
+            background: linear-gradient(45deg, #f7971e, #ffd200); 
+            color: #1a1a1a; 
+            font-size: 26px; 
+            font-weight: 800; 
+            border-radius: 50px; 
+            text-decoration: none; 
+            box-shadow: 0 8px 25px rgba(255, 215, 0, 0.6); 
+            animation: pulse-blink 1.4s infinite ease-in-out;
+            letter-spacing: 1px;
+            border: 2px solid #fff;">
+    ⚡ ПОДДЕРЖАТЬ
+  </a>
 
-I work with Python, APIs, databases, GitHub, and AI-assisted workflows. I also create content for YouTube and run Telegram channels around tech, tools, and digital projects.
+  <br><br>
 
-## 🎯 What I'm Into
+  <!-- МИГАЮЩАЯ КНОПКА "SPONSOR ON GITHUB" (бейдж с анимацией) -->
+  <a href="https://github.com/sponsors/kort0881" 
+     style="display: inline-block; 
+            animation: pulse-blink 1.8s infinite ease-in-out;
+            border-radius: 10px;
+            overflow: hidden;">
+    <img src="https://img.shields.io/badge/Sponsor%20💚-kort0881-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge" 
+         alt="Sponsor kort0881" 
+         style="display: block;">
+  </a>
 
-- Vibe coding and AI-assisted development.
-- Telegram bots and automation systems.
-- Python scripts for content workflows and daily tasks.
-- YouTube and Telegram content creation.
-- Simple web tools, utilities, and experimental projects.
+  <br><br>
 
-## ✨ What I Do
+  <!-- ============ СПИСОК СЕТЕЙ И QR-КОДЫ ============ -->
+  <div id="crypto">
+    <table align="center" border="0" cellpadding="15" cellspacing="0" style="border-collapse: collapse; background: #f8f9fa; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.08);">
+      <tr>
+        <td align="center" valign="middle" style="padding: 20px 30px;">
+          <strong style="font-size: 20px; color: #2a9d8f;">🟢 USDT (TRC-20)</strong><br>
+          <code style="background: #e9ecef; padding: 6px 12px; border-radius: 8px; font-size: 14px;">TDpXaQ51rCyHcwTtf8pFoZVumBTHc5zUEv</code><br><br>
+          <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=TDpXaQ51rCyHcwTtf8pFoZVumBTHc5zUEv" 
+               alt="USDT TRC-20 QR" 
+               width="160" height="160" 
+               style="border-radius: 12px; border: 2px solid #2a9d8f;">
+        </td>
+        <td align="center" valign="middle" style="padding: 20px 30px;">
+          <strong style="font-size: 20px; color: #6d28d9;">🟣 SOL (Solana)</strong><br>
+          <code style="background: #e9ecef; padding: 6px 12px; border-radius: 8px; font-size: 14px;">UQBulszePXnd4_jPFOZT3tErjWhkgKNjaPT2_1lYP_SqY0ge</code><br><br>
+          <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=UQBulszePXnd4_jPFOZT3tErjWhkgKNjaPT2_1lYP_SqY0ge" 
+               alt="SOL QR" 
+               width="160" height="160" 
+               style="border-radius: 12px; border: 2px solid #6d28d9;">
+        </td>
+      </tr>
+    </table>
+  </div>
 
-### 💻 Tech I Use
+  <br>
 
-- Python
-- Bash
-- PowerShell
-- SQL
+  <!-- ПРЕДУПРЕЖДЕНИЕ -->
+  <div style="background: #fff3cd; padding: 12px 20px; border-radius: 12px; display: inline-block; border-left: 6px solid #ffc107;">
+    ⚠️ <strong>Важно:</strong> Отправляйте USDT <strong>ТОЛЬКО</strong> в сети TRC-20 (Tron)!<br>
+    Отправка в другую сеть = <strong style="color: #d9534f;">потеря средств</strong> 🔥
+  </div>
 
-### 🛠 Tools & Stack
-
-- aiogram for Telegram bots
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-- Docker
-- GitHub Actions
-- APIs and automation workflows
-- AI tools for faster prototyping and idea-to-product building
-
-## ⚡ My Approach
-
-I'm into building in a vibe-coding style: idea first, momentum second, code third.
-
-That means I like to:
-- start with a concept,
-- prototype fast,
-- use AI to speed up development,
-- improve through iterations,
-- and turn raw ideas into something real.
-
-For me, coding is not only about syntax — it's also about creativity, speed, and intuition. Vibe coding is commonly described as guiding AI tools with prompts to generate and refine software instead of writing every part manually, which matches this kind of workflow well.
-
-## 💰 Support / Донаты
-
-If you find my projects useful and want to support my work:
-
-| Cryptocurrency | Network | Address |
-|----------------|---------|---------|
-| **USDT** | TRC-20 (Tron) | `TDpXaQ51rCyHcwTtf8pFoZVumBTHc5zUEv` |
-| **SOL** | Solana | `UQBulszePXnd4_jPFOZT3tErjWhkgKNjaPT2_1lYP_SqY0ge` |
-
-<details>
-<summary>📱 QR Codes for easy donation (click to expand)</summary>
-
-<br>
-
-**USDT (TRC-20):**  
-![USDT QR](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=TDpXaQ51rCyHcwTtf8pFoZVumBTHc5zUEv)
-
-**SOL (Solana):**  
-![SOL QR](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=UQBulszePXnd4_jPFOZT3tErjWhkgKNjaPT2_1lYP_SqY0ge)
-
-</details>
-
-⚠️ **Important:** Send USDT **ONLY in TRC-20 (Tron) network**! Sending in wrong network = **lost funds** 🔥
-
----
-
-## 📋 Projects
-
-### 🤖 Telegram Bots
-Bots for automation, content handling, publishing flows, and data processing.
-
-### 🎥 YouTube Tools
-Scripts and small tools for video optimization, metadata workflows, analytics, and content support.
-
-### 🔧 Utilities
-Small practical tools, automation scripts, and experiments built around productivity, content, and fast execution.
-
-### 🌐 VPN / Proxies
-- VLESS/VMESS configurations
-- MTProto proxy collector
-- Proxy validation and monitoring tools
-
-## 📄 Let's Connect
-
-<div align="center">
-
-[Telegram](https://t.me/kort0881) • [YouTube](#) • [GitHub](https://github.com/kort0881)
+  <!-- ============ СТИЛИ ДЛЯ АНИМАЦИИ ============ -->
+  <style>
+    @keyframes pulse-blink {
+      0%   { transform: scale(1); opacity: 1; filter: drop-shadow(0 0 5px rgba(255,215,0,0.3)); }
+      50%  { transform: scale(1.06); opacity: 0.85; filter: drop-shadow(0 0 20px rgba(255,215,0,0.9)); }
+      100% { transform: scale(1); opacity: 1; filter: drop-shadow(0 0 5px rgba(255,215,0,0.3)); }
+    }
+  </style>
 
 </div>
-
----
-
-<div align="center">
-
-**Made with ❤️ by Sanya** | Python • AI • Automation • Vibe Coding
-
-</div>
+<!-- ============================================================ -->
+<!--  КОНЕЦ БЛОКА ДОНАТОВ                                          -->
+<!-- ============================================================ -->
