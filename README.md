@@ -1,6 +1,6 @@
-<!-- =========================================================== -->
-<!--  ПОЛНЫЙ README С ВАШИМ КОНТЕНТОМ И МИГАЮЩИМИ КНОПКАМИ ДОНАТОВ -->
-<!-- =========================================================== -->
+<!-- ============================================================== -->
+<!--  ПОЛНЫЙ README С РАБОТАЮЩИМИ МИГАЮЩИМИ КНОПКАМИ И QR-КОДАМИ    -->
+<!-- ============================================================== -->
 
 <div style="text-align: center;">
   <h1>
@@ -25,15 +25,17 @@ I work with Python, APIs, databases, GitHub, and AI-assisted workflows. I also c
 - YouTube and Telegram content creation.
 - Simple web tools, utilities, and experimental projects.
 
-<!-- ============== НОВЫЙ БЛОК ДОНАТОВ (МИГАЮЩИЙ) ============== -->
+<!-- ============================================================== -->
+<!--  БЛОК ДОНАТОВ – С МИГАЮЩИМИ КНОПКАМИ (SVG) И АДРЕСАМИ        -->
+<!-- ============================================================== -->
+
 <div align="center" id="donate" style="margin: 40px 0;">
 
   <h2>💰 Поддержать проект</h2>
 
-  <!-- ГЛАВНАЯ МИГАЮЩАЯ КНОПКА (SVG-анимация – работает везде) -->
+  <!-- МИГАЮЩАЯ КНОПКА "ПОДДЕРЖАТЬ" (SVG с анимацией) -->
   <a href="#crypto" style="display: inline-block; text-decoration: none;">
     <svg width="280" height="70" viewBox="0 0 280 70" xmlns="http://www.w3.org/2000/svg">
-      <rect x="0" y="0" width="280" height="70" rx="35" fill="url(#grad)" stroke="#fff" stroke-width="3" />
       <defs>
         <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
           <stop offset="0%" stop-color="#f7971e" />
@@ -41,9 +43,9 @@ I work with Python, APIs, databases, GitHub, and AI-assisted workflows. I also c
         </linearGradient>
         <style>
           @keyframes pulse {
-            0% { transform: scale(1); opacity: 1; filter: drop-shadow(0 0 8px rgba(255,215,0,0.4)); }
-            50% { transform: scale(1.04); opacity: 0.9; filter: drop-shadow(0 0 25px rgba(255,215,0,0.9)); }
-            100% { transform: scale(1); opacity: 1; filter: drop-shadow(0 0 8px rgba(255,215,0,0.4)); }
+            0% { transform: scale(1); opacity: 1; }
+            50% { transform: scale(1.05); opacity: 0.9; }
+            100% { transform: scale(1); opacity: 1; }
           }
           .pulse-text {
             animation: pulse 1.5s infinite ease-in-out;
@@ -51,6 +53,7 @@ I work with Python, APIs, databases, GitHub, and AI-assisted workflows. I also c
           }
         </style>
       </defs>
+      <rect x="0" y="0" width="280" height="70" rx="35" fill="url(#grad)" stroke="#fff" stroke-width="3" />
       <text x="50%" y="45" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="900" fill="#1a1a1a" class="pulse-text">
         ⚡ ПОДДЕРЖАТЬ
       </text>
@@ -59,27 +62,42 @@ I work with Python, APIs, databases, GitHub, and AI-assisted workflows. I also c
 
   <br><br>
 
-  <!-- МИГАЮЩАЯ КНОПКА SPONSOR (CSS-анимация, дублируем для надёжности) -->
-  <a href="https://github.com/sponsors/kort0881" 
-     style="display: inline-block; 
-            animation: pulse-blink 1.8s infinite ease-in-out;
-            border-radius: 10px;
-            overflow: hidden;
-            box-shadow: 0 0 15px rgba(0,255,0,0.3);">
-    <img src="https://img.shields.io/badge/Sponsor%20💚-kort0881-brightgreen.svg?logo=github&logoColor=white&style=for-the-badge" 
-         alt="Sponsor kort0881" 
-         style="display: block;">
+  <!-- МИГАЮЩАЯ КНОПКА "SPONSOR" (тоже SVG для надёжности) -->
+  <a href="https://github.com/sponsors/kort0881" style="display: inline-block; text-decoration: none;">
+    <svg width="250" height="60" viewBox="0 0 250 60" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#2ea44f" />
+          <stop offset="100%" stop-color="#36b55f" />
+        </linearGradient>
+        <style>
+          @keyframes pulse2 {
+            0% { transform: scale(1); opacity: 1; }
+            50% { transform: scale(1.06); opacity: 0.85; }
+            100% { transform: scale(1); opacity: 1; }
+          }
+          .pulse-sponsor {
+            animation: pulse2 1.8s infinite ease-in-out;
+            transform-origin: center;
+          }
+        </style>
+      </defs>
+      <rect x="0" y="0" width="250" height="60" rx="30" fill="url(#grad2)" stroke="#fff" stroke-width="2" />
+      <text x="50%" y="40" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#fff" class="pulse-sponsor">
+        💚 Sponsor on GitHub
+      </text>
+    </svg>
   </a>
 
   <br><br>
 
-  <!-- СПИСОК СЕТЕЙ И QR-КОДЫ -->
+  <!-- ============ АДРЕСА И QR-КОДЫ ============ -->
   <div id="crypto">
     <table align="center" border="0" cellpadding="15" cellspacing="0" style="border-collapse: collapse; background: #f8f9fa; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.08);">
       <tr>
         <td align="center" valign="middle" style="padding: 20px 30px;">
           <strong style="font-size: 20px; color: #2a9d8f;">🟢 USDT (TRC-20)</strong><br>
-          <code style="background: #e9ecef; padding: 6px 12px; border-radius: 8px; font-size: 14px;">TDpXaQ51rCyHcwTtf8pFoZVumBTHc5zUEv</code><br><br>
+          <code style="background: #e9ecef; padding: 6px 12px; border-radius: 8px; font-size: 14px; word-break: break-all;">TDpXaQ51rCyHcwTtf8pFoZVumBTHc5zUEv</code><br><br>
           <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=TDpXaQ51rCyHcwTtf8pFoZVumBTHc5zUEv" 
                alt="USDT TRC-20 QR" 
                width="160" height="160" 
@@ -87,7 +105,7 @@ I work with Python, APIs, databases, GitHub, and AI-assisted workflows. I also c
         </td>
         <td align="center" valign="middle" style="padding: 20px 30px;">
           <strong style="font-size: 20px; color: #6d28d9;">🟣 SOL (Solana)</strong><br>
-          <code style="background: #e9ecef; padding: 6px 12px; border-radius: 8px; font-size: 14px;">UQBulszePXnd4_jPFOZT3tErjWhkgKNjaPT2_1lYP_SqY0ge</code><br><br>
+          <code style="background: #e9ecef; padding: 6px 12px; border-radius: 8px; font-size: 14px; word-break: break-all;">UQBulszePXnd4_jPFOZT3tErjWhkgKNjaPT2_1lYP_SqY0ge</code><br><br>
           <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=UQBulszePXnd4_jPFOZT3tErjWhkgKNjaPT2_1lYP_SqY0ge" 
                alt="SOL QR" 
                width="160" height="160" 
@@ -106,15 +124,6 @@ I work with Python, APIs, databases, GitHub, and AI-assisted workflows. I also c
   </div>
 
 </div>
-
-<style>
-  /* Дополнительная CSS-анимация для кнопки Sponsor (работает в браузерах) */
-  @keyframes pulse-blink {
-    0%   { transform: scale(1); opacity: 1; filter: drop-shadow(0 0 5px rgba(0,255,0,0.3)); }
-    50%  { transform: scale(1.06); opacity: 0.85; filter: drop-shadow(0 0 20px rgba(0,255,0,0.8)); }
-    100% { transform: scale(1); opacity: 1; filter: drop-shadow(0 0 5px rgba(0,255,0,0.3)); }
-  }
-</style>
 <!-- ================= КОНЕЦ БЛОКА ДОНАТОВ ===================== -->
 
 ## 📋 Projects
