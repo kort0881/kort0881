@@ -1,92 +1,41 @@
-<!-- ============================================================== -->
-<!--  ПОЛНЫЙ README С РАБОТАЮЩИМИ МИГАЮЩИМИ КНОПКАМИ И QR-КОДАМИ    -->
-<!-- ============================================================== -->
-
-<div style="text-align: center;">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=2000&multiline=true&width=700&height=70&lines=👋+Hi+there,+I'm+Sanya;Vibe+Coding,+Automation+%26+Content+Creation" alt="Typing SVG" />
-  </h1>
-  <img src="https://raw.githubusercontent.com/kort0881/kort0881/main/grok-video-ab2b232e-6e74-4ee3-9aa7-d8c988be0e78.gif" width="100%" max-width="700px" height="auto" alt="Fun Animation" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
-</div>
-
-## 🚀 About Me
-
-Hi! I'm Sanya — a developer and content creator focused on **vibe coding**, automation, and building useful things with AI.
-
-I like turning ideas into working tools, Telegram bots, and content systems. My main focus is not just writing code line by line, but building fast, experimenting with prompts, testing ideas, and shaping projects through flow, iteration, and creative energy.
-
-I work with Python, APIs, databases, GitHub, and AI-assisted workflows. I also create content for YouTube and run Telegram channels around tech, tools, and digital projects.
-
-## 🎯 What I'm Into
-
-- Vibe coding and AI-assisted development.
-- Telegram bots and automation systems.
-- Python scripts for content workflows and daily tasks.
-- YouTube and Telegram content creation.
-- Simple web tools, utilities, and experimental projects.
-
-<!-- ============================================================== -->
-<!--  БЛОК ДОНАТОВ – С МИГАЮЩИМИ КНОПКАМИ (SVG) И АДРЕСАМИ        -->
-<!-- ============================================================== -->
-
-<div align="center" id="donate" style="margin: 40px 0;">
+<!-- ========== БЛОК ДОНАТОВ (без мигания, но красиво) ========== -->
+<div align="center" style="margin: 40px 0;">
 
   <h2>💰 Поддержать проект</h2>
 
-  <!-- МИГАЮЩАЯ КНОПКА "ПОДДЕРЖАТЬ" (SVG с анимацией) -->
-  <a href="#crypto" style="display: inline-block; text-decoration: none;">
-    <svg width="280" height="70" viewBox="0 0 280 70" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stop-color="#f7971e" />
-          <stop offset="100%" stop-color="#ffd200" />
-        </linearGradient>
-        <style>
-          @keyframes pulse {
-            0% { transform: scale(1); opacity: 1; }
-            50% { transform: scale(1.05); opacity: 0.9; }
-            100% { transform: scale(1); opacity: 1; }
-          }
-          .pulse-text {
-            animation: pulse 1.5s infinite ease-in-out;
-            transform-origin: center;
-          }
-        </style>
-      </defs>
-      <rect x="0" y="0" width="280" height="70" rx="35" fill="url(#grad)" stroke="#fff" stroke-width="3" />
-      <text x="50%" y="45" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="900" fill="#1a1a1a" class="pulse-text">
-        ⚡ ПОДДЕРЖАТЬ
-      </text>
-    </svg>
+  <!-- КНОПКА "ПОДДЕРЖАТЬ" (обычная, но стильная) -->
+  <a href="#crypto" 
+     style="display: inline-block;
+            padding: 14px 40px;
+            background: linear-gradient(45deg, #f7971e, #ffd200);
+            color: #1a1a1a;
+            font-size: 24px;
+            font-weight: 800;
+            border-radius: 50px;
+            text-decoration: none;
+            box-shadow: 0 4px 15px rgba(255, 215, 0, 0.5);
+            border: 2px solid #fff;
+            letter-spacing: 1px;
+            margin-bottom: 10px;">
+    ⚡ ПОДДЕРЖАТЬ
   </a>
 
-  <br><br>
+  <br>
 
-  <!-- МИГАЮЩАЯ КНОПКА "SPONSOR" (тоже SVG для надёжности) -->
-  <a href="https://github.com/sponsors/kort0881" style="display: inline-block; text-decoration: none;">
-    <svg width="250" height="60" viewBox="0 0 250 60" xmlns="http://www.w3.org/2000/svg">
-      <defs>
-        <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stop-color="#2ea44f" />
-          <stop offset="100%" stop-color="#36b55f" />
-        </linearGradient>
-        <style>
-          @keyframes pulse2 {
-            0% { transform: scale(1); opacity: 1; }
-            50% { transform: scale(1.06); opacity: 0.85; }
-            100% { transform: scale(1); opacity: 1; }
-          }
-          .pulse-sponsor {
-            animation: pulse2 1.8s infinite ease-in-out;
-            transform-origin: center;
-          }
-        </style>
-      </defs>
-      <rect x="0" y="0" width="250" height="60" rx="30" fill="url(#grad2)" stroke="#fff" stroke-width="2" />
-      <text x="50%" y="40" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#fff" class="pulse-sponsor">
-        💚 Sponsor on GitHub
-      </text>
-    </svg>
+  <!-- КНОПКА "SPONSOR" (через бейдж, но можно и просто ссылкой) -->
+  <a href="https://github.com/sponsors/kort0881" 
+     style="display: inline-block;
+            padding: 10px 30px;
+            background: #2ea44f;
+            color: #fff;
+            font-size: 20px;
+            font-weight: 600;
+            border-radius: 30px;
+            text-decoration: none;
+            box-shadow: 0 4px 12px rgba(46, 164, 79, 0.4);
+            border: 2px solid #fff;
+            margin-top: 8px;">
+    💚 Sponsor on GitHub
   </a>
 
   <br><br>
@@ -124,36 +73,4 @@ I work with Python, APIs, databases, GitHub, and AI-assisted workflows. I also c
   </div>
 
 </div>
-<!-- ================= КОНЕЦ БЛОКА ДОНАТОВ ===================== -->
-
-## 📋 Projects
-
-### 🤖 Telegram Bots
-Bots for automation, content handling, publishing flows, and data processing.
-
-### 🎥 YouTube Tools
-Scripts and small tools for video optimization, metadata workflows, analytics, and content support.
-
-### 🔧 Utilities
-Small practical tools, automation scripts, and experiments built around productivity, content, and fast execution.
-
-### 🌐 VPN / Proxies
-- VLESS/VMESS configurations
-- MTProto proxy collector
-- Proxy validation and monitoring tools
-
-## 📄 Let's Connect
-
-<div align="center">
-
-[Telegram](https://t.me/kort0881) • [YouTube](#) • [GitHub](https://github.com/kort0881)
-
-</div>
-
----
-
-<div align="center">
-
-**Made with ❤️ by Sanya** | Python • AI • Automation • Vibe Coding
-
-</div>
+<!-- ========== КОНЕЦ БЛОКА ДОНАТОВ ========== -->
