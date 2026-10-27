@@ -28,19 +28,24 @@ I work with Python, APIs, databases, GitHub, and AI-assisted workflows. I also c
 
 <div align="center" style="margin: 30px 0; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
 
-  <h3>💳 Кошельки для поддержки</h3>
+  <h3>💳 Поддержать — кошельки и QR</h3>
 
-  <p><b>USDT (TRC-20)</b><br>
-  <code>TD9nhvhGHp3iRDJDNyVhdUTET2Lmj9fPvy</code></p>
+  <table>
+  <tr>
+    <td align="center"><img src="assets/qr-usdt-trc20.png" width="170" alt="QR USDT (TRC-20)"></td>
+    <td>&nbsp;&nbsp;<b>USDT (TRC-20)</b><br><br><code>TD9nhvhGHp3iRDJDNyVhdUTET2Lmj9fPvy</code></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/qr-usdt-erc20.png" width="170" alt="QR USDT (ERC-20 / BEP-20)"></td>
+    <td>&nbsp;&nbsp;<b>USDT (ERC-20 / BEP-20)</b><br><br><code>6k9ZwvVj5s1o3nFRJarwwhA6SBKcsyqL8yVxWGeYj8Yf</code></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/qr-ton.png" width="170" alt="QR TON"></td>
+    <td>&nbsp;&nbsp;<b>TON</b><br><br><code>UQAaZUtP9aP6tNZT5CDsgWdnKZy6Y9JQu8HRTKLZ-VBsV-N_</code></td>
+  </tr>
+  </table>
 
-  <p><b>USDT (ERC-20 / BEP-20)</b><br>
-  <code>6k9ZwvVj5s1o3nFRJarwwhA6SBKcsyqL8yVxWGeYj8Yf</code></p>
-
-  <p><b>TON</b><br>
-  <code>UQAaZUtP9aP6tNZT5CDsgWdnKZy6Y9JQu8HRTKLZ-VBsV-N_</code></p>
-
-  <p>🎯 <b>Цель сбора:</b> видеокарта — чтобы быстрее собирать и рендерить видео, не ждать часами
-  на встроенной графике.</p>
+  <p>🎯 <b>Цель сбора:</b> видеокарта — чтобы быстрее собирать и рендерить видео, не ждать часами на встроенной графике.</p>
 
 </div>
 
