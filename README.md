@@ -25,6 +25,25 @@ I work with Python, APIs, databases, GitHub, and AI-assisted workflows. I also c
 - YouTube and Telegram content creation.
 - Simple web tools, utilities, and experimental projects.
 
+
+<div align="center" style="margin: 30px 0; padding: 20px; border: 1px solid #30363d; border-radius: 12px;">
+
+  <h3>💳 Кошельки для поддержки</h3>
+
+  <p><b>USDT (TRC-20)</b><br>
+  <code>TD9nhvhGHp3iRDJDNyVhdUTET2Lmj9fPvy</code></p>
+
+  <p><b>USDT (ERC-20 / BEP-20)</b><br>
+  <code>6k9ZwvVj5s1o3nFRJarwwhA6SBKcsyqL8yVxWGeYj8Yf</code></p>
+
+  <p><b>TON</b><br>
+  <code>UQAaZUtP9aP6tNZT5CDsgWdnKZy6Y9JQu8HRTKLZ-VBsV-N_</code></p>
+
+  <p>🎯 <b>Цель сбора:</b> видеокарта — чтобы быстрее собирать и рендерить видео, не ждать часами
+  на встроенной графике.</p>
+
+</div>
+
 <!-- ========== БЛОК ПОДДЕРЖКИ (без адресов кошельков) ========== -->
 <div align="center" style="margin: 40px 0;">
 
